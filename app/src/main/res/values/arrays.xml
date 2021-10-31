@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="db_fields">
+        <item>id</item>
+        <item>value</item>
+        <item>image</item>
+    </string-array>
+</resources>
